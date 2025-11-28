@@ -17,6 +17,11 @@ def find_maximum(data):
         return None
     return max(data)
 
+def find_minimum(data): 
+    if not data: y
+    return None 
+    return min(data)    
+
 if __name__ == "__main__":
     # Тестовий список
     test_list = [5, 12, 8, 25, 4]
