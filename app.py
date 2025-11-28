@@ -44,3 +44,6 @@ if __name__ == "__main__":
     empty_list = []
     print(f"Сума (порожній): {calculate_sum(empty_list)}")
     print(f"Середнє (порожній): {calculate_average(empty_list)}")
+    
+    minimum = find_minimum(test_list)
+    print(f"4. Мінімальне значення: {minimum}")
