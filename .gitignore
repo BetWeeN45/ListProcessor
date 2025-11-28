@@ -1,0 +1,4 @@
+# Створення файлу .gitignore
+'*.pyc' > .gitignore
+'__pycache__/' >> .gitignore
+'.venv/' >> .gitignore
